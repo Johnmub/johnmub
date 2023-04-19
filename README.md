@@ -41,7 +41,7 @@
 
 <h3 align="center">Tools 🧰</h3>
 <p align="center">
-   Git and Github | Slack | AdobeXD
+   Git and Github | Wordpress | Slack | AdobeXD
 </p>
 
 <h3 align="center">Follow me</h3>
