@@ -1,6 +1,6 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="images/john-with-ia.png" />
-   <h3 align="center">¡Hey 👋! Soy midudev 👨🏻‍💻</h3>
+   <img align="center" width="200" style="border-radius:50%;overflow:hidden;" src="images/image.jpg" />
+   <h2 align="center">¡Hey 👋! Soy Jonathan 👨🏻‍💻</h3>
 </p>
 
 ### Hi there 👋
