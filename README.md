@@ -54,8 +54,8 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="johnmub.dev"
          height="28px" width="28px" />
    </a>
-   <a href="https://www.facebook.com/johnmub.dev/" target="blank" style='margin-right:4px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="johnmub.dev"
+   <a href="https://twitter.com/johnmub98" target="blank" style='margin-right:4px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="johnmub.dev"
          height="28px" width="28px" />
    </a>
 </p>
