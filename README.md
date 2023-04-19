@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" style="border-radius:50%;overflow:hidden;" src="images/john-ia.png" alt="johnmub.dev">
+   <img align="center" width="200" style="border-radius:50%;overflow:hidden;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzg3YjM3ZWQ1MTFmZmMwNjU0ZmFhNzg4YTk4Y2RiNmQ4NGM1NjY2OCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/4rZA5D22301iMgrUNd/giphy.gif" alt="johnmub.dev">
    <h3 align="center">Hey there 👋! I’m Jonathan</h3>
 </p>
 
