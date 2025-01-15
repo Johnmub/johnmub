@@ -33,9 +33,9 @@
    <ul>
       <li>HTML y CSS | TailwindCss</li>
       <li>PHP (Laravel) | Javascript</li>
-      <li>Typescript | ReactJs</li>
-   <li>NextJs | Redux</li>
-   <li>MongoDB | MySQL</li>
+      <li>Typescript | ReactJs | VueJs</li>
+      <li>NextJs | Redux</li>
+      <li>MongoDB | MySQL</li>
    </ul>
 </p>
 
@@ -46,7 +46,7 @@
 
 <h3 align="center">Follow me</h3>
 <p align="center">
-   <a href="https://www.linkedin.com/in/jonathan-urdaneta/" target="blank" style='margin-right:4px'>
+   <a href="https://www.linkedin.com/in/johnmub/" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="johnmub.dev"
          height="28px" width="28px" />
    </a>
