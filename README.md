@@ -5,7 +5,7 @@
 
 <p align="center">
    I’m a <strong>Full stack developer</strong></br>
-   Experience: <strong>3 years</strong>
+   Experience: <strong>5 years</strong>
 </p>
 
 <p align="center">
